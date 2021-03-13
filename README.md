@@ -4,5 +4,6 @@
     <li>Integrante da IEEE-UEFS</li>
     <li>Apaixonado por tecnologia</li>
 </ul>
-[![AlexandreCaribe GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCaribe&show_icons=true&theme=dark)]
+
+[![AlexandreCaribe GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCaribe&show_icons=true&theme=dark)](https://github.com/AlexandreCaribe/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCaribe&layout=compact&theme=dark)](https://github.com/AlexandreCaribe/github-readme-stats)
