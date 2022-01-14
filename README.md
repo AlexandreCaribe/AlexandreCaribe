@@ -11,9 +11,15 @@
 
 </br>
 
-[![AlexandreCaribe GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCaribe&show_icons=true&theme=dark)](https://github.com/AlexandreCaribe/github-readme-stats)
+<p align="center">
+    [![AlexandreCaribe GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCaribe&show_icons=true&theme=dark)](https://github.com/AlexandreCaribe/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCaribe&layout=compact&theme=dark)](https://github.com/AlexandreCaribe/github-readme-stats)
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCaribe&layout=compact&theme=dark)](https://github.com/AlexandreCaribe/github-readme-stats)
+
+
+
+
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/alexandre-carib%C3%A9-30bb89198/">
