@@ -14,3 +14,22 @@
 [![AlexandreCaribe GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCaribe&show_icons=true&theme=dark)](https://github.com/AlexandreCaribe/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCaribe&layout=compact&theme=dark)](https://github.com/AlexandreCaribe/github-readme-stats)
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/alexandre-carib%C3%A9-30bb89198/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/alexandre.caribe.73">
+    <img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alexandre.caribe.73/">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/xyksper">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
+  </a>
+  <a href="mailto:alexandre.s.caribe@outlook.com">
+    <img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+</p>
+
